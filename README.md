@@ -14,7 +14,7 @@ Communication QQ group: `486214313` (Feedback BUG, ​​latest version released
 - 2 Disable or remove antivirus, than you can add the folder with the cheat in Windows Defender to exceptions
 - 3 Unzip the archive in a location convenient for you
 - 4 Open CS2
-- 5 Launch "Rensen.exe"
+- 5 Launch "Helper.exe"
 - 6 After injecting the cheat, enjoy the game
 ## ❗Necessarily
 - Disable or remove antivirus before launching the cheat
