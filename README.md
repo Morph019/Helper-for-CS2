@@ -5,20 +5,17 @@
 </p>
 Just a multifunction cheat software developed for the game Counter-Strike 2.
 
-A versatile external cheat customized specifically for CS2.
+A versatile external soft customized specifically for CS2.
 
 Communication QQ group: `486214313` (Feedback BUG, ​​latest version released in advance)
 
 ## ❓How to start?
 - 1 Click to -> Code -> Download ZIP
-- 2 Disable or remove antivirus, than you can add the folder with the cheat in Windows Defender to exceptions
-- 3 Unzip the archive in a location convenient for you
-- 4 Open CS2
-- 5 Launch "Helper.exe"
-- 6 After injecting the cheat, enjoy the game
-## ❗Necessarily
-- Disable or remove antivirus before launching the cheat
-- If necessary, add the folder with the cheat in Windows Defender to exceptions
+- 2 Unzip the archive in a location convenient for you
+- 3 Open CS2
+- 4 Launch the main application
+- 5 After injecting the cheat, enjoy the game
+
 ## 🤓Features
 - External menu
 - Saveable system
@@ -30,11 +27,8 @@ Communication QQ group: `486214313` (Feedback BUG, ​​latest version released
 - Cloud update
 - Authentication
 ## 🤩Showcase
-Video: [https://youtu.be/a0h4ZhxQP2A](https://www.youtube.com/watch?v=A_uGPEyAGPk&t=198s)
+![4n9K089](https://github.com/user-attachments/assets/af6eadf4-2349-4789-a111-aeed55110150)
 
-## 🔥Contributors List
-- [@M3351AN](https://github.com/M3351AN)
-Provides Aimbot algorithm and bypass OBS repair method
 # 💀Disclaimer
 I am not responsible for anything that happens when you use this software.
 
