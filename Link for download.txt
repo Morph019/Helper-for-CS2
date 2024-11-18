@@ -1,0 +1,42 @@
+Sorry bro, the cheat don't upload to github, because he's size above 25mb :(
+
+📥Link to download cheat: https://mega.nz/file/V5IyEShK#XggarUIY6cnbv6Bw06iKcThLDj1aGchUc8VqELp1TIY
+🔎VirusTotal: https://www.virustotal.com/gui/file/5b3823655b8fc5d7dacfa6e01b6f4ce6f2cacf2784722f9e4c9e803577eb3d14
+
+Description:
+✨Helper for game Counter-Strike 2
+ 
+Just a multifunction cheat software developed for the game Counter-Strike 2.
+A versatile external soft customized specifically for CS2.
+
+Communication QQ group: 486214313 (Feedback BUG, ​​latest version released in advance)
+
+❓How to start?
+1 Click to -> Code -> Download ZIP
+2 Unzip the archive in a location convenient for you
+3 Open CS2
+4 Launch the main application
+5 After injecting the cheat, enjoy the game
+
+🤓Features
+External menu
+Saveable system
+Absolutely safe!!!
+Do not write memory!!!
+Bypass Valve-Anti-Cheat(VAC)
+Auto update
+C++ Build in Release | x64
+Cloud update
+Authentication
+
+🤩Showcase
+4n9K089
+
+💀Disclaimer
+I am not responsible for anything that happens when you use this software.
+
+This project is the original Rensen address. If you find it at other addresses, please delete it immediately.
+
+I am not responsible for any consequences arising from the use of this software.
+
+The original version of the Rensen program is published by the author at this address only.
