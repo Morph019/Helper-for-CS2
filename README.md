@@ -9,6 +9,8 @@ A versatile external soft customized specifically for CS2.
 
 Communication QQ group: `486214313` (Feedback BUG, ​​latest version released in advance)
 
+VT https://www.virustotal.com/gui/file/5b3823655b8fc5d7dacfa6e01b6f4ce6f2cacf2784722f9e4c9e803577eb3d14/detection
+
 ## ❓How to start?
 - 1 Click to -> Code -> Download ZIP
 - 2 Unzip the archive in a location convenient for you
